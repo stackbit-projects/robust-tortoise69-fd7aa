@@ -5,9 +5,13 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, this is @carSantello''s first offical webpage'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Backend developer expert at COBOL (CICS, JCL, batch processes, DB2, IMS,
+      REXX and so forth...)
+
+
+      Always willing to help and to acquire knowledge, also I have a couple of
+      cobol courses at platzi.
     actions:
       - label: Let's talk
         url: /contact
